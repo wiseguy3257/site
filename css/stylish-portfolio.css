@@ -79,9 +79,8 @@ body {
 }
 
 .text-vertical-center p {
-    font-size: 2em;
+    font-size: 1.6em;
     background-color: rgba(0,0,0,0.8);
-    margin: 7em;
     padding: 1em;
 }
 
