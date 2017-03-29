@@ -1,3 +1,3 @@
-Please vist my portfolio website to learn more about me and my work.
+Please visit our website to learn more about the church.
 
-<a href="http://www.montgomerytim.com">montgomerytim.com</a>
+<a href="http://www.stmosesonthehill.com">stmosesonthehill.com</a>
