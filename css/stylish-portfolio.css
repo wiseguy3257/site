@@ -305,16 +305,6 @@ hr.small {
     }
 }
 
-/* Calendar */
-.calendar {    
-    height: 500px;}
-
-@media(max-width:768px) {    
-    .calendar {        
-        height: 75%;    
-    }
-}
-
 /* Footer */
 
 footer {
