@@ -311,7 +311,7 @@ hr.small {
 
 @media(max-width:768px) {    
     .calendar {        
-        height: 50%;    
+        height: 75%;    
     }
 }
 
