@@ -244,6 +244,8 @@ hr.small {
     margin-bottom: 30px;
 }
 
+.service-item a {color: #ffffff;}
+
 .services-head {
     font-size: 1.5em;
 }
