@@ -20,7 +20,7 @@
 .overlay {
    background:transparent; 
    position:relative; 
-   width:1000px;
+   width:1500px;
    height:1000px; /* your iframe height */
    top:1000px;  /* your iframe height */
    margin-top:-1000px;  /* your iframe height */
