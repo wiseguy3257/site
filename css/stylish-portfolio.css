@@ -20,10 +20,10 @@
 .overlay {
    background:transparent; 
    position:relative; 
-   width:5000px;
-   height:5000px; /* your iframe height */
-   top:5000px;  /* your iframe height */
-   margin-top:-5000px;  /* your iframe height */
+   width:1000px;
+   height:1000px; /* your iframe height */
+   top:1000px;  /* your iframe height */
+   margin-top:-1000px;  /* your iframe height */
 }
 
 .focusable.visuallyhidden:active,
